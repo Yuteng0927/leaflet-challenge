@@ -11,30 +11,30 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 * Clone the new repository to your computer.
 
-*Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: Leaflet-Part-1 and Leaflet-Part-2.
+* Inside your local git repository, create a directory for the Leaflet challenge. Use the folder names to correspond to the challenges: Leaflet-Part-1 and Leaflet-Part-2.
 
-*This Challenge uses both HTML and JavaScript, so be sure to add all the necessary files. These will be the main files to run for analysis.
+* This Challenge uses both HTML and JavaScript, so be sure to add all the necessary files. These will be the main files to run for analysis.
 
-*Push the above changes to GitHub.
+* Push the above changes to GitHub.
 
 # Instructions
 The instructions for this activity are broken into two parts:
 
-*Part 1: Create the Earthquake Visualization
+* Part 1: Create the Earthquake Visualization
 
-*Part 2: Gather and Plot More Data (Optional with no extra points earning)
+* Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
 # Part 1: Create the Earthquake Visualization
 
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
-*Get your dataset. To do so, follow these steps:
+* Get your dataset. To do so, follow these steps:
 
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed Links to an external site.page and choose a dataset to visualize. The following image is an example screenshot of what appears when you visit this link:
 
 When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
-*Import and visualize the data by doing the following:
+* Import and visualize the data by doing the following:
 
 Using Leaflet, create a map that plots all the earthquakes from your dataset based on their longitude and latitude.
 
